@@ -1,3 +1,3 @@
 [submodule "nsupdate"]
 	path = nsupdate
-	url = https://github.com/chrisb86/nsupdate
+	url = https://github.com/chrisb86/nsupdate.git
